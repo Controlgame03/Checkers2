@@ -23,7 +23,7 @@ public class FileMaster{
 	private static final int NOEOF = 0;
 	private static final int BOARD_SIZE = 8;
 	
-	private FileWriter currentSaveFile; //в этот файл записывается партия
+	private FileWriter currentSaveFile; //в этот файл записывается партия.
 	private Integer moveCount = 1;
 	private int moveEndCount = 0;
 	
